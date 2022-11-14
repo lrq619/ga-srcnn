@@ -1,0 +1,8 @@
+pictures/
+tmp
+*.csv
+*/blur
+*/clear_low
+*/clear_srcnn
+*/blur_low
+output/

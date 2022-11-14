@@ -1,0 +1,4 @@
+GAME = 'wesnoth'
+DOWNMAG = 2
+NEEDBLUR = 0
+BLURRATIO = 0.1
